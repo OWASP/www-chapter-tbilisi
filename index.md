@@ -2,56 +2,39 @@
 
 layout: col-sidebar
 title: OWASP Tbilisi
-tags: example-tag
+tags: tbilisi
 level: 0
 
 region: Asia/Pacific
 
-auto-migrated: 1
 meetup-group: OWASP-Tbilisi-Chapter
 country: Georgia
-postal-code: 
+postal-code:
 
 ---
 
+![OWASP Tbilisi Logo](https://owasp.org/www-chapter-tbilisi/assets/images/Logo-OWASP-Tbilisi.png "OWASP Tbilisi Logo")
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## Who are we
+OWASP Tbilisi chapter was resurrected in 2019 by [David Kvatadze](mailto:david.kvatadze@owasp.org).
 
-{front matter for this file}
+The chapter is run by a team of dedicated cyber security enthusiasts.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+The chapter aims at holding quarterly meetups in the format of 3 practical workshops/CTF and up to 5 talks.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+## Our supporters
+![The University Of Georgia Logo](https://owasp.org/www-chapter-tbilisi/assets/images/Logo-UG.png "The University Of Georgia Logo")
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+[The University Of Georgia](https://www.ug.edu.ge/)
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## How to find us
+Follow our news and announcements on social media:
+[Facebook Page](https://www.facebook.com/OWASP.Tbilisi) &
+[Facebook Group](https://www.facebook.com/groups/OWASP.Tbilisi)
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+Join the Meetup group [OWASP Tbilisi Chapter](https://www.meetup.com/OWASP-Tbilisi-Chapter)
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+## Become a Speaker
+Call For Speakers at OWASP Tbilisi events is permanently open.
+If you want to present at future events, first simply review and agree with the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement).
+After that please send the title, abstract of your talk and speaker bio to chapter leaders.
