@@ -5,7 +5,7 @@ title: OWASP Tbilisi
 tags: tbilisi
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 meetup-group: OWASP-Tbilisi-Chapter
 country: Georgia
