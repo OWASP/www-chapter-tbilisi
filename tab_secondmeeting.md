@@ -3,7 +3,7 @@ title: secondmeeting
 layout: null
 tab: true
 order: 2
-tags: secondmeeting
+tags: tbilisi
 ---
 
 ![2nd Meeting Cover](https://owasp.org/www-chapter-tbilisi/assets/images/2nd-meeting-cover.jpg "2nd Meeting Cover")

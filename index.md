@@ -3,10 +3,7 @@
 layout: col-sidebar
 title: OWASP Tbilisi
 tags: tbilisi
-level: 0
-
 region: Asia
-
 meetup-group: OWASP-Tbilisi-Chapter
 country: Georgia
 postal-code:
