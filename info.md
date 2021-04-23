@@ -1,13 +1,11 @@
 ### Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
-* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
-* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Chapter Polivcy](https://owasp.org/www-policy/
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
 * [Facebook Page](https://www.facebook.com/OWASP.Tbilisi)
-* [Facebook Group](https://www.facebook.com/groups/OWASP.Tbilisi)
 * [Meetup.com](https://www.meetup.com/OWASP-Tbilisi-Chapter)
 
 ### Code Repository
