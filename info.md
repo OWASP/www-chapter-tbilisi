@@ -1,7 +1,7 @@
 ### Chapter Information
 * [Become a Member](https://www.owasp.org/index.php/Membership)
 * [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
-* [Chapter Polivcy](https://owasp.org/www-policy/
+* [Chapter Policy](https://owasp.org/www-policy/)
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
