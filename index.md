@@ -25,10 +25,6 @@ The chapter aims at holding quarterly meetups in the format of 3 practical works
 [The University Of Georgia](https://www.ug.edu.ge/)
 
 ## How to find us
-Follow our news and announcements on social media:
-[Facebook Page](https://www.facebook.com/OWASP.Tbilisi) &
-[Facebook Group](https://www.facebook.com/groups/OWASP.Tbilisi)
-
 Join the Meetup group [OWASP Tbilisi Chapter](https://www.meetup.com/OWASP-Tbilisi-Chapter)
 
 ## Become a Speaker
