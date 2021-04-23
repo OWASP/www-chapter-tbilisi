@@ -5,7 +5,6 @@
 * [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
 ### Social Links
-* [Facebook Page](https://www.facebook.com/OWASP.Tbilisi)
 * [Meetup.com](https://www.meetup.com/OWASP-Tbilisi-Chapter)
 
 ### Code Repository
