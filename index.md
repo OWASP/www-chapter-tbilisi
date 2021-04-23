@@ -31,3 +31,6 @@ Join the Meetup group [OWASP Tbilisi Chapter](https://www.meetup.com/OWASP-Tbili
 Call For Speakers at OWASP Tbilisi events is permanently open.
 If you want to present at future events, first simply review and agree with the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement).
 After that please send the title, abstract of your talk and speaker bio to chapter leaders.
+
+## Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
